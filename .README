@@ -1,0 +1,17 @@
+//******* Guide de démarage *********//
+
+
+=> ANGULAR version 13.1.2
+=> NODE version 14.18.1 et sup
+
+
+//******************************************************************
+Etape 1 => Créer une base de données type sql nommé groupomania2
+Executer le script de la BDD 
+//***********************************************************************************
+Etape 2 => Dans le terminal sur le repertoire Backend intaller npm = 'npm install'
+Etape 3 => Dans le terminal lancer node = 'node server'
+//***********************************************************************************
+Etape 4 => Dans le terminal sur le repertoire Frontend installer npm = 'npm install'
+Etape 5 => Dans le terminal lancer node = 'ng serve'
+
